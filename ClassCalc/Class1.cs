@@ -8,5 +8,9 @@ namespace ClassCalc
 {
     public class Class1
     {
+        public int Summ(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
